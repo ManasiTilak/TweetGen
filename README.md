@@ -13,6 +13,12 @@ This project automates the creation of Twitter content focused on Python program
 ### Prerequisites
 - Python
 - An OpenAI API key
+- A .txt file with headers : No., Topic, Explaination seperated with '|' dividers.
+
+Example:
+| No. | Topic                             | Explanation                                                                 |
+|-----|-----------------------------------|-----------------------------------------------------------------------------|
+| 1   | List Comprehensions               | How to use list comprehensions for more concise and readable code.          |
 
 ## Usage
 1. Set up your `.env` file with your OpenAI API key:
